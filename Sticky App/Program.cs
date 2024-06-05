@@ -46,7 +46,6 @@ namespace StickyNotes
             notes.Add(note);
             Console.WriteLine("Note added!");
         }
-
         static void ViewNotes()
         {
             Console.WriteLine("Your notes:");
